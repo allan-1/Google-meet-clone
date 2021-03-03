@@ -6,9 +6,9 @@ To run:
 
 ---------
 
-`git https://github.com/Allan-1/Google-meet-clone.git`
-`cd Google-meet-clone`
+```git https://github.com/Allan-1/Google-meet-clone.git```
+```cd Google-meet-clone```
 
 to install dependencies
-`npm install`
-`npm run dev`
+```npm install```
+```npm run dev```
