@@ -6,7 +6,6 @@ A simple google meet clone made using WEBRTC, socket.io and nodejs
 
 # Installation & Setup
 
----------
 1. First install node in your system
 2. Clone the repository 
 
@@ -23,6 +22,6 @@ A simple google meet clone made using WEBRTC, socket.io and nodejs
 6. Open your browser and run                
     ```localhost:3000```
 
-----
+
 # Contributions
 Questions and contributions are open
