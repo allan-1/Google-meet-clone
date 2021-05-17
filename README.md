@@ -1,10 +1,10 @@
 # MEETY
 -----
-![meety](/Images/Screenshot from 2021-05-17 10-59-06.png?raw=true)
+![meety](https://github.com/Allan-1/Google-meet-clone/blob/master/Images/Screenshot%20from%202021-05-17%2010-59-06.png?raw=true)
 
 A simple google meet clone made using WEBRTC, socket.io and nodejs
 
-#Installation & Setup
+# Installation & Setup
 
 ---------
 1. First install node in your system
